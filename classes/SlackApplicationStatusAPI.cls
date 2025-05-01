@@ -1,4 +1,3 @@
-// Slack Invite: https://join.slack.com/share/enQtODgyNDY5MTczMzc4Mi1kMDVlMjQ2MTM4MjA3Y2E2NTQwZjFhNTNkNDg1NjdlODdkNDc1OGMxNmY4ZWYyMWY3ODMyOWI5ODZlZmVjMmMy
 @RestResource(urlMapping='/application-status/*')
 global class SlackApplicationStatusAPI {
  
